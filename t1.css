@@ -1,0 +1,36 @@
+body{
+	background-color:#799dd8;
+}
+p.p1{
+	text-align:center;
+	font-size:15px;
+}
+#greeting{
+	text-transform:capitalize;
+	font-size:22px;
+	text-align:center;
+	text-decoration:underline;
+}
+p.p3{
+	text-indent:80%;
+	font-style:italic;
+	font-size:20px;
+}
+h1{
+	text-align:center;
+	text-transform:capitalize;
+	font-size:25px;
+}
+#detail{
+	font-style:italic;
+	text-indent:80%;
+}
+.p2{
+	font-size:18px;
+	text-align:justify;
+}
+img
+{
+	margin: auto;
+	display:block;
+}
